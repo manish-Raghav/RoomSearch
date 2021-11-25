@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.and roid.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity"
+    android:background="@color/backloginpage">
+
+
+    <View
+        android:id="@+id/ex"
+        android:layout_width="match_parent"
+        android:layout_height="160dp"
+        android:background="@color/log" />
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:layout_marginTop="150dp"
+        android:src="@drawable/ic_wave__3_"
+
+        />
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Rooms-Search"
+        android:textColor="#00cba9"
+         android:layout_marginTop="219dp"
+        android:layout_marginLeft="100dp"
+        android:textSize="30dp"
+        />
+
+      <EditText
+          android:id="@+id/nm"
+          android:layout_width="300dp"
+          android:layout_height="40dp"
+          android:background="@drawable/editfor"
+          android:layout_marginTop="340dp"
+          android:layout_marginLeft="45dp"
+          android:hint="abc@gmail.com"
+          android:paddingLeft="20dp"/>
+
+    <EditText
+        android:id="@+id/em"
+        android:layout_width="300dp"
+        android:layout_height="40dp"
+        android:layout_marginLeft="45dp"
+        android:layout_marginTop="400dp"
+        android:background="@drawable/editfor"
+        android:hint="password"
+        android:paddingLeft="20dp"
+
+
+        />
+
+    <Button
+        android:layout_width="300dp"
+        android:layout_height="40dp"
+        android:paddingBottom="2dp"
+        android:layout_marginLeft="45dp"
+        android:layout_marginTop="500dp"
+        android:background="@drawable/gardiant"
+        android:onClick="Login"
+        android:textSize="18dp"
+
+        android:text="Log IN"
+
+        app:backgroundTint="null" />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="600dp"
+        android:text="Dont't have an account?"
+        android:layout_marginLeft="40dp"
+        android:textSize="18dp"
+        />
+
+
+
+
+
+</RelativeLayout>
+

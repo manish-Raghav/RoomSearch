@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "537477294079",
+    "firebase_url": "https://rooms-dfc71.firebaseio.com",
+    "project_id": "rooms-dfc71",
+    "storage_bucket": "rooms-dfc71.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:537477294079:android:7ea77e7fe5f811e2bc69ca",
+        "android_client_info": {
+          "package_name": "com.example.rooms"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "537477294079-euqqt71jim424ak77tj1rdl1fegh4lf5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjBocRV8Ycp7q3z545Hki_eMeag5pKjec"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "537477294079-euqqt71jim424ak77tj1rdl1fegh4lf5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:537477294079:android:52664545b64124cabc69ca",
+        "android_client_info": {
+          "package_name": "com.example.roomslink"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "537477294079-euqqt71jim424ak77tj1rdl1fegh4lf5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjBocRV8Ycp7q3z545Hki_eMeag5pKjec"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "537477294079-euqqt71jim424ak77tj1rdl1fegh4lf5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
